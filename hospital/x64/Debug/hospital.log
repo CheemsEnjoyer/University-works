@@ -1,0 +1,5 @@
+﻿  MainForm.cpp
+C:\Users\Admin\source\repos\Курсач\hospital\MainForm.h(1287,15): warning C4101: info: неиспользованная локальная переменная
+C:\Users\Admin\source\repos\Курсач\hospital\MainForm.h(1818,15): warning C4101: info: неиспользованная локальная переменная
+  AddPatientForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  hospital.vcxproj -> C:\Users\Admin\source\repos\Курсач\hospital\x64\Debug\hospital.exe

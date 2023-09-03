@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Курсач\hospital\x64\Debug\hospital.vcxproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Курсач\hospital\x64\Debug\hospital.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Курсач\hospital\x64\Debug\hospital.MainForm.resources
+C:\Users\Admin\source\repos\Курсач\hospital\x64\Debug\hospital.vcxproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Курсач\hospital\x64\Debug\hospital.exe
+C:\Users\Admin\source\repos\Курсач\hospital\x64\Debug\hospital.AddPatientForm.resources
+C:\Users\Admin\source\repos\Курсач\hospital\x64\Debug\hospital.ChronicPatients.resources
+C:\Users\Admin\source\repos\Курсач\hospital\x64\Debug\hospital.RedactForm.resources
+C:\Users\Admin\source\repos\Курсач\hospital\x64\Debug\hospital.Curtain.resources
