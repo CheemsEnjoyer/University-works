@@ -1,0 +1,189 @@
+.row {
+  display: flex;
+}
+.container {
+  padding: 50px 150px;
+  height: 700px;
+}
+.bgrTop {
+  position: absolute;
+  width: 1540px;
+  height: 139px;
+  left: 0px;
+  top: 0px;
+
+  background: #04877a;
+}
+.burCoatofArms {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  padding: 10px;
+  gap: 10px;
+
+  position: relative;
+  width: 120px;
+  height: 120px;
+}
+.burFlag {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px;
+  gap: 10px;
+
+  position: relative;
+  width: 204px;
+  height: 122px;
+}
+.body {
+  font-family: Roboto;
+  background: #eeaa3d;
+}
+.title {
+  position: absolute;
+  width: 605px;
+  height: 54px;
+  left: 242px;
+  top: 37px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #e6d5b9;
+}
+.title2 {
+  position: absolute;
+  width: 605px;
+  height: 54px;
+  left: 600px;
+  top: 37px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #e6d5b9;
+}
+.introductionHeader {
+  position: absolute;
+  width: 560px;
+  height: 42px;
+  left: 599px;
+  top: 179px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+
+  color: #4e3835;
+}
+.introductionText {
+  position: absolute;
+  width: 690px;
+  height: 206px;
+  left: 600px;
+  top: 271px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #4e3835;
+}
+.image1 {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  left: 150px;
+  top: 179px;
+}
+.image1.culecon {
+  margin-top: 51px;
+  margin-left: 3px;
+}
+.line {
+  position: absolute;
+  width: 184px;
+  height: 5px;
+  left: 628px;
+  top: 515px;
+
+  background: #4e3835;
+}
+.active {
+  background: #0ac17b;
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+}
+.link {
+  color: rgb(15, 141, 122);
+  text-decoration: none;
+}
+.imgcultur {
+  width: 400px;
+  height: 500px;
+  left: 150px;
+  top: 179px;
+}
+.textcultur {
+  margin-top: 580px;
+  margin-left: 60px;
+  width: 400px;
+  border: 1px solid black;
+  text-align: center;
+  background: #cfc954;
+}
+.introductionHeader.glossary {
+  width: 260px;
+}
+.sectextHeader {
+  position: absolute;
+  width: 96px;
+  height: 42px;
+  left: 744px;
+  top: 570px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+
+  color: #4e3835;
+}
+.sectext {
+  position: absolute;
+  width: 667px;
+  height: 206px;
+  left: 173px;
+  top: 662px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #4e3835;
+}
+.amodule {
+  text-decoration: none;
+  color: aliceblue;
+}
+.amodule:hover {
+  color: rgb(208, 255, 0);
+}
